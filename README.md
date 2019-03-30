@@ -1,5 +1,5 @@
 # Nihao
-### 这个是我的 ** _个人主页_ ** 域名：[My homepage](https://fchen24.github.io)
+### 这个是我的 *个人主页* 域名：[My homepage](https://fchen24.github.io)
 
 ![smile^ ^](images/welcome.jpg)
 
