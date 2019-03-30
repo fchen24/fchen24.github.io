@@ -1,5 +1,5 @@
 # Nihao
-### 这个是我的**_个人主页_**域名：[My homepage](https://fchen24.github.io)
+### 这个是我的 ** _个人主页_ ** 域名：[My homepage](https://fchen24.github.io)
 
 ![smile^ ^](images/welcome.jpg)
 
@@ -10,6 +10,5 @@
 *As Kobe Bryant said :* 
 > If you're afraid to fail, 
 > then you're probably going to fail.
-
 
 The page is updating ...
