@@ -1,13 +1,16 @@
-﻿fei.chen's home
-# 🏠
-### Welcome 
+🏠 fei.chen's homepage
+# Hello 👋🏻
+
+This is my Github pages. 
+
+- About ME 🙋🏻‍♂️
+- My Hobbies 👾
+- My Readings 📚
+- My Life Share 👻
+- Tech blog 👨🏻‍💻
+- more 
 
 ---
-So lazy, but i will manage this page this year!!
 
-See you :)
+<center style="color:red;"><del>RESUME</del></center>
 
----
-@ 10.12.2020
-
-[Google🔍](https://google.com)
